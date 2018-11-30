@@ -13,10 +13,10 @@ The purpose of this tutorial is to explore the different data types and constrai
 Knowing how to apply constraints and specify data types prevents invalid queries from causing unforseen problems. While constraint and type checking can make a schema more complicated, it is often easier and less error-prone than doing it at the application layer. Therefore, applying the information from this tutorial will allow you to find problems quicker and easier.
 
 ## Contents
-1. [**Common SQL Data Types**](#markdown-header-1-common-sql-data-types)
-2. [**SQL Data Types by Dialect**](#markdown-header-2-sql-data-types-by-dialect)
-3. [**SQL Constraints**](#markdown-header-3-sql-constraints)
-4. [**Example Problems**](#markdown-header-4-example-problems)
+1. [**Common SQL Data Types**](#1-common-sql-data-types)
+2. [**SQL Data Types by Dialect**](#2-sql-data-types-by-dialect)
+3. [**SQL Constraints**](#3-sql-constraints)
+4. [**Example Problems**](#4-example-problems)
 
 # 1 Common SQL Data Types
 
