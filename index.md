@@ -1,5 +1,6 @@
 # Understanding SQL Data Types & Constraints
 ![data-types-graphic](./images/data-types.png)
+
 *Image courtesy of PostgreSQL Tutorial*
 ### Jordan Pottruff, Olexandr Matveyev, Ahmed Naji, Gage Oneill  
 
