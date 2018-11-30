@@ -17,7 +17,7 @@ Knowing how to apply constraints and specify data types prevents invalid queries
 3. [**SQL Constraints**](#markdown-header-3-sql-constraints)
 4. [**Example Problems**](#markdown-header-4-example-problems)
 
-#1 Common SQL Data Types
+# 1 Common SQL Data Types
 
 While the specifics about data types largely depends on the SQL dialect (e.g. SQLite, MySQL, etc) being used, nearly all dialects share the following general types:  
 
@@ -53,7 +53,7 @@ CREATE TABLE Company(
 The above data types represent broad categories of types shared by most dialects. Between these dialects, the exact name, memory, and
 even semantics can be slightly different. Next we will explore a few of the more popular dialects to see some of these differences.
 
-#2 SQL Data Types by Dialect
+# 2 SQL Data Types by Dialect
 
 The following table represents a brief overview of the most common storage classes and its type keywords found in major dialects for each category listed in 
 section 1.
@@ -69,7 +69,7 @@ Note that some of the keywords found in different dialects require additional in
 argument that designates the max amount of characters allowed. To find more about this and other important factors when writing in one of
 these dialects, always read the documentation such as that linked in our sources section.
 
-#3 SQL Constraints
+# 3 SQL Constraints
 
 Constraints provide additional limits on values that can't be expressed just by a data type. When a constraint is violated by an action 
 on the database, the action is cancelled and some sort of error or exception is generally thrown by the system. Like types, constraints 
@@ -183,7 +183,7 @@ While the word "constraint" often can have a negative connotation, in the contex
 prevent hard-to-solve problems by catching invalid data the moment it tries to enter the system. The more constraints that can be added to values
 without interferring with the objective of the database means far less headaches in the future.
 
-#4 Example Problems
+# 4 Example Problems
 
 Below are a few example problems that help demonstrate the ideas covered in the previous sections. Answers can be found further down.
 
